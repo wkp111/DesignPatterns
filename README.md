@@ -1,0 +1,26 @@
+# DesignPatterns
+Java23种设计模式的简单Demo
+### 简介
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/AbstractFactory.java">抽象工厂模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/Adapter.java">适配器模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/Bridge.java">桥接模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/BuilderDemo.java">建造者模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/ChainResponse.java">责任链模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/CommandDemo.java">命令模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/Composite.java">组合模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/Decorator.java">装饰模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/Facade.java">外观模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/FactoryMethod.java">工厂方法模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/Flyweight.java">享元模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/Interpreter.java">解释器模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/IteratorDemo.java">迭代器模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/MediatorDemo.java">中介者模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/MementoDemo.java">备忘录模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/Observer.java">观察者模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/Prototype.java">原型模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/Proxy.java">代理模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/Singleton.java">单例设计模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/StateDemo.java">状态模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/Strategy.java">策略模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/TemplateMethod.java">模板方法模式</a></br></br>
+<a href="https://github.com/wkp111/DesignPatterns/blob/master/src/com/wkp/design/VisitorDemo.java">访问者模式</a></br></br>
